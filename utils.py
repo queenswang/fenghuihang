@@ -30,14 +30,14 @@ DEFAULT_COOKIES = [
 
 datas = [
     {
-        "userId": "1681902",
-        "userName": "黄志豪",
-        "phone": 13143378112
+        "userId": "",
+        "userName": "",
+        "phone": 00000000000
     },
     {
-        "userId": "1534323",
-        "userName": "秦梓烽",
-        "phone": 18902256382
+        "userId": "",
+        "userName": "",
+        "phone": 00000000000
     }
 ]
 
